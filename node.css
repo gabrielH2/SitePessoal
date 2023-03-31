@@ -1,0 +1,81 @@
+body{
+    background-color:darkblue;
+    text-align: center;
+    font-style: italic;
+}
+#D{
+    background-color: gold;
+    border-radius: 30px;
+    text-align: center;
+}
+#N{
+    background-color: blue;
+    color: black;
+    border-radius: 50px;
+   
+}
+#I{
+    background-color: chartreuse;
+    color:dimgrey;
+    border-radius: 50px;
+}
+#X{
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+ 
+
+#F{
+    background-color: brown;
+    color: peru;
+    border-radius: 50px;
+   
+}
+#C{
+    background-color: yellow;
+    color: darkmagenta;
+    border-radius: 50px;
+}
+#H{
+    background-color: gold;
+    color:darkolivegreen;
+    border-radius: 30px;
+    
+}
+#E{
+    background-color: crimson;
+    color: gold;
+    border-radius: 30px;
+    
+}
+#M{
+    background-color: azure;
+    color: indigo;
+    border-radius: 30px;
+    
+}
+
+ /*a partir daqui é o segundo h1*/
+
+ #Y{
+    background-color: gold;
+    text-align: center;
+    border-radius: 30px;
+ }
+ #GG{
+    height:300px;
+    width: 450px;
+    text-align: center;
+}
+#JJ{
+    height: 300px;
+    width: 450px;
+    text-align: center;
+}
+#Z{
+    background-color: gold;
+    text-align: center;
+    border-radius: 50px;
+}
